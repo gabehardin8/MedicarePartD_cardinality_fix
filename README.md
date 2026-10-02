@@ -1,8 +1,7 @@
 # MedicarePartD_cardinality_fix
 Creating temporary and permanent fixes for the cardinality of table relationships in a database built off the Medicare Part D Public Use File
 
-**Dataset:** Medicare Part D Prescriber [Uploading ugly_SQL.sql…]()
-/ Drug / Prescriber data (PostgreSQL, pgAdmin)
+**Dataset:** Medicare Part D Prescribers Public Use File: https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers
 
 **Please Note:**
 This README walks through the cleaned-up version of the investigation. If you want to see the real, unedited session — every query I ran along the way, including dead ends and in-progress comments to myself — it's included in this repo as [`ugly_SQL.sql`](ugly_SQL.sql).
